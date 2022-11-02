@@ -1,0 +1,208 @@
+Uri: http://islamiclostloveastrology.in/
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\index.htm
+Content Type: text/html
+
+Uri: http://islamiclostloveastrology.in/css/style.css
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\css\style.css
+Content Type: text/css
+
+Uri: http://islamiclostloveastrology.in/images/ab.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\ab.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/banner1.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\banner1.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/banner2.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\banner2.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/banner3.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\banner3.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/banner4.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\banner4.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/bg.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\bg.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/brdr1.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\brdr1.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/ft.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\ft.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/header-left.gif
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\header-left.gif
+Content Type: image/gif
+
+Uri: http://islamiclostloveastrology.in/images/icon1.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\icon1.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/icon2.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\icon2.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/icon3.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\icon3.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/icon4.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\icon4.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/line.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\line.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/q1.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q1.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/q2.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q2.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/q3.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q3.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/q4.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q4.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/q5.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q5.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/q6.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\q6.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv1.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv1.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv2.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv2.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv3.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv3.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv4.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv4.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv5.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv5.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/srv6.jpg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\srv6.jpg
+Content Type: image/jpeg
+
+Uri: http://islamiclostloveastrology.in/images/stiky1.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\stiky1.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/stiky2.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\stiky2.png
+Content Type: image/png
+
+Uri: http://islamiclostloveastrology.in/images/whatsapp-header.png
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\images\whatsapp-header.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald&display=swap
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/a076d05399.js
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\a076d05399.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+File Name: C:\Users\Avast\Downloads\islamicloveastrology\islamiclostloveastrology.in\bootstrap\3.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
